@@ -1,7 +1,3 @@
-### Functions and Event Listeners Explained
-
----
-
 #### `document.addEventListener('DOMContentLoaded', () => { ... })`
 
 **Description**:  
